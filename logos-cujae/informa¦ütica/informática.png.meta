@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      "inform\xE1tica_0": 5062173052724745621
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
