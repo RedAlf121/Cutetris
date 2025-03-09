@@ -30,6 +30,7 @@ namespace TimerScript
 
         public void Run()
         {
+            Debug.Log("Timer start");
             countdown = StartCoroutine(Wait());
         }
 
