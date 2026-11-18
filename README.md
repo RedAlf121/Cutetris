@@ -20,20 +20,3 @@ A diferencia del Tetris clásico, aquí el reto principal es **reconocer cómo c
 ## Propósito del proyecto
 
 Cutetris propone una forma lúdica de acercarse a la identidad visual de la universidad. Al convertir sus logos en rompecabezas interactivos, el juego invita a reconocer sus formas y colores mientras se practican habilidades como la percepción espacial, la planificación y la resolución de problemas.
-
-## Tecnologías y entorno
-
-El repositorio contiene principalmente **ShaderLab** y **HLSL**, además de código **C#**, y está pensado para utilizarse en **Unity**.
-
-## Cómo preparar el proyecto
-
-1. Crea un proyecto en Unity.
-2. Clona este repositorio dentro de la carpeta `Assets` del proyecto.
-3. Abre el proyecto con Unity y deja que importe los archivos.
-4. Abre la escena del juego para probarlo.
-
-> Si tienes problemas al abrirlo, comprueba que la versión de Unity sea compatible con los archivos del proyecto.
-
-## Estado del proyecto
-
-Este README describe la idea general de Cutetris. Los controles, niveles, instrucciones de compilación y otros detalles se pueden completar a medida que se definan o implementen en el juego.
