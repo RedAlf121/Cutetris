@@ -15,6 +15,9 @@ La idea combina la mecánica sencilla de encajar bloques con un reto de observac
 
 A diferencia del Tetris clásico, aquí el reto principal es **reconocer cómo contribuye cada pieza a la imagen final**. Por eso, conviene mirar el tablero completo, anticipar los espacios que necesitarás y evitar colocar piezas sin considerar el diseño del logo.
 
+<img width="419" height="649" alt="Captura de pantalla de 2026-11-20 04-55-37" src="https://github.com/user-attachments/assets/fa83f2f3-3436-4358-9fd9-fd5358d1dd94" />
+
 ## Propósito del proyecto
 
 Cutetris propone una forma lúdica de acercarse a la identidad visual de la universidad. Al convertir sus logos en rompecabezas interactivos, el juego invita a reconocer sus formas y colores mientras se practican habilidades como la percepción espacial, la planificación y la resolución de problemas.
+
